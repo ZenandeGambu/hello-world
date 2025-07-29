@@ -1,0 +1,1 @@
+It is important to fully understand the work, as this course is to train you in becoming a professional. in addition To certify you as qualified
