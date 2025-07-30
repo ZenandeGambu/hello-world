@@ -1,2 +1,2 @@
-def tasks():
+def task1():
     print("something")
