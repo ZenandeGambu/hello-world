@@ -1,2 +1,2 @@
 def task1():
-    print("something")
+    print("Hello World!")
