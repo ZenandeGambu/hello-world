@@ -1,4 +1,4 @@
-def task2() :
-  def greet(name = "Friend") :
-    print("Hello" , name + "!")
-
+def task2(name = "Friend") :
+  def greet(user):
+    print("Hello " + user + "!")
+  greet(name)
